@@ -4,7 +4,7 @@ namespace Jblv\Admin\Config;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Config extends Model
+class ConfigModel extends Model
 {
     /**
      * Settings constructor.
