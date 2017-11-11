@@ -8,7 +8,7 @@ use Jblv\Admin\Form;
 use Jblv\Admin\Grid;
 use Jblv\Admin\Layout\Content;
 
-class ConfigController extends Controller
+class ConfigController 
 {
     use ModelForm;
 
