@@ -3,7 +3,7 @@
     "description": "Config extension for daimakuai-admin",
     "type": "library",
     "keywords": ["daimakuai-admin", "setting"],
-    "homepage": "https://github.com/daimakuai-extensions/config",
+    "homepage": "https://github.com/daimakuai-ext/config",
     "license": "MIT",
     "authors": [
         {
