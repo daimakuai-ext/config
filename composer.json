@@ -2,7 +2,7 @@
     "name": "daimakuai-ext/config",
     "description": "Config extension for daimakuai-admin",
     "type": "library",
-    "keywords": ["daimakuai-admin", "setting"],
+    "keywords": ["daimakuai", "setting","laravel"],
     "homepage": "https://github.com/daimakuai-ext/config",
     "license": "MIT",
     "authors": [
