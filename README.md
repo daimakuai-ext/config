@@ -1,8 +1,8 @@
 daimakuai-extensionsconfig
 ========================
 
-[![Packagist](https://img.shields.io/packagist/l/laravel-admin-ext/config.svg?maxAge=2592000)](https://packagist.org/packages/laravel-admin-ext/config)
-[![Total Downloads](https://img.shields.io/packagist/dt/laravel-admin-ext/config.svg?style=flat-square)](https://packagist.org/packages/laravel-admin-ext/config)
+[![Packagist](https://img.shields.io/packagist/l/daimakuai-ext-ext/config.svg?maxAge=2592000)](https://packagist.org/packages/daimakuai-ext-ext/config)
+[![Total Downloads](https://img.shields.io/packagist/dt/daimakuai-ext-ext/config.svg?style=flat-square)](https://packagist.org/packages/daimakuai-ext-ext/config)
 
 Inspired by https://github.com/laravel-backpack/settings.
 
