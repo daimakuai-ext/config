@@ -32,7 +32,7 @@ class Config extends Extension
     }
 
     /**
-     * Register routes for laravel-admin.
+     * Register routes for daimakuai-ext.
      *
      * @return void
      */
